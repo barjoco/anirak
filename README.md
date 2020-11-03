@@ -44,20 +44,4 @@ The Anirak theme is available for other apps. Feel free to [contact](mailto:barj
 
 <a style="font-size:large;" href="https://github.com/barjoco/anirak/blob/master/apps/alacritty/src/alacritty.yml">Alacritty</a>
 
-<img src="https://raw.githubusercontent.com/barjoco/anirak/master/apps/alacritty/img/preview.png" width="600"/>
-
-<br>
-
-<a style="font-size:large;" href="https://github.com/barjoco/dots/tree/master/spicetify/Themes/Anirak">Spotify</a>
-
-To use this theme, first install [Spicetify](https://github.com/khanhas/spicetify-cli)
-
-Then, `mkdir ~/.config/Spicetify/Themes/Anirak`
-
-Download and move `colors.ini` and `user.css` into the Anirak theme folder
-
-Run `spicetify apply`
-
-Done!
-
-<img src="https://raw.githubusercontent.com/barjoco/anirak/master/apps/spicetify/img/preview.png" width="600"/>
+<img src="https://raw.githubusercontent.com/barjoco/anirak/master/apps/alacritty/img/preview.png" width="400"/>
